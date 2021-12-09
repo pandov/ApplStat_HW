@@ -2,13 +2,11 @@
 
 ## Reproducibility
 
-|        |               |
-| -----  | ------------- |
 | OS     | Windows/Linux |
+| -----  | ------------- |
 | Python | 3.7.7         |
 | pip    | 21.1.2        |
 
-&nbsp;
 ### Dependencies:
 ```bash
 pip install -r requirements.txt
@@ -19,6 +17,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
+&nbsp;
 ## Plots
 
 ### a. Joint Histogram
